@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on web services deployment, Python, C and C++ programming, Linux Kernel development and network skills.<br>🌱 I’m currently learning CCNA and Linux Kernel.<br>📖 I'm preparing myself to get eJPTv2, eCPPTv2 and eWPT.
+🔭 I’m currently working on web services deployment, Python, C and C++ programming, Linux Kernel development and network skills.<br>🌱 I’m currently learning cybersecurity.<br>📖 I'm preparing myself to get eJPTv2, eCPPTv2 and eWPT.
 
 
 ## 🌐 Socials:
